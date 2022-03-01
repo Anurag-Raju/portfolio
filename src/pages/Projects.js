@@ -31,10 +31,10 @@ function Projects() {
           </h1>
         </div>
         <div className="bg-orange-600 font-bold text-center text-white p-20 mx-20 md:mx-5 rounded-tl-full rounded-br-full ">
-          <h1 className="md:text-4xl text-6xl" data-aos="slide left">
+          <h1 className="md:text-xl text-6xl" data-aos="slide left">
             THE GAME IS...
           </h1>
-          <h1 className="md:text-4xl text-6xl" data-aos="slide right">
+          <h1 className="md:text-2xl text-6xl" data-aos="slide right">
             CONSISTENCY
           </h1>
         </div>
