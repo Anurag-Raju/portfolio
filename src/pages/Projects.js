@@ -48,9 +48,11 @@ function Projects() {
                     <h1 className="text-4xl font-semibold text-white">
                       {item.title}
                     </h1>
-                    <button className="border-2 rounded text-white border-white py-2 px-5 hover:bg-blue-500 mt-5">
-                      DEMO
-                    </button>
+                    <a href={item.link}>
+                      <button className="border-2 rounded text-white border-white py-2 px-5 hover:bg-blue-500 mt-5">
+                        DEMO
+                      </button>
+                    </a>
                   </div>
                 </div>
               </div>
