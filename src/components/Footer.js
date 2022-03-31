@@ -24,11 +24,21 @@ function Footer() {
             <p className="text-gray-50 pb-3">Designed and Developed By</p>
             <div className="h-1 border-2 border-gray-50 border-dotted"></div>
             <div className="flex text-white w-full justify-between py-3">
-              <FaFacebook />
-              <FaInstagram />
-              <FaLinkedin />
-              <FaGithub />
-              <FaMailBulk />
+              <a href="https://www.facebook.com/">
+                <FaFacebook />
+              </a>
+              <a href="https://www.instagram.com/">
+                <FaInstagram />
+              </a>
+              <a href="https://www.linkedin.com/in/anurag-raju/">
+                <FaLinkedin />
+              </a>
+              <a href="https://github.com/Anurag-Raju">
+                <FaGithub />
+              </a>
+              <a href="https://www.gmail.com/">
+                <FaMailBulk />
+              </a>
             </div>
             <div className="h-1 border-2 border-gray-50 border-dotted"></div>
             <p className="text-gray-50 my-2">Anurag</p>

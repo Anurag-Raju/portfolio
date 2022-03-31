@@ -1,9 +1,10 @@
 const projectsData = [
   {
-    title: "Shophub",
+    title: "Ecommerce",
     image: "./undraw_web_shopping_re_owap.svg",
-    description: "An ecommerce application developed using react,redux",
-    link: "https://anuragshophub.netlify.app/",
+    description:
+      "An ecommerce application developed using react,redux,firebase",
+    link: "https://anuragecommerce.netlify.app/",
   },
   {
     title: "Corona Fighter Game",
@@ -19,7 +20,7 @@ const projectsData = [
     link: "/",
   },
   {
-    title: "Jobhub",
+    title: "Employee form",
     image: "./undraw_interview_re_e5jn.svg",
     description: "Employee form",
     link: "https://anuragemployee.netlify.app/",
@@ -29,6 +30,18 @@ const projectsData = [
     image: "./calculator.png",
     description: "An Social application developed using react,redux",
     link: "https://anuragcalculator.netlify.app/",
+  },
+  {
+    title: "ShoeKart",
+    image: "./shoe.png",
+    description: "An ecommerce application developed using react,redux",
+    link: "https://anuragshophub.netlify.app/",
+  },
+  {
+    title: "Amazon",
+    image: "./amazon.png",
+    description: "An ecommerce application developed using react,redux",
+    link: "https://anuragamazon.netlify.app/",
   },
 ];
 
