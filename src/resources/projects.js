@@ -1,11 +1,11 @@
 const projectsData = [
   {
-    title: "Ecommerce",
-    image: "./undraw_web_shopping_re_owap.svg",
-    description:
-      "An ecommerce application developed using react,redux,firebase",
-    link: "https://anuragecommerce.netlify.app/",
+    title: "Amazon",
+    image: "./amazon.png",
+    description: "An ecommerce application developed using react,redux",
+    link: "https://anuragamazon.netlify.app/",
   },
+
   {
     title: "Corona Fighter Game",
     image: "./back.jpeg",
@@ -38,10 +38,11 @@ const projectsData = [
     link: "https://anuragshophub.netlify.app/",
   },
   {
-    title: "Amazon",
-    image: "./amazon.png",
-    description: "An ecommerce application developed using react,redux",
-    link: "https://anuragamazon.netlify.app/",
+    title: "Ecommerce",
+    image: "./undraw_web_shopping_re_owap.svg",
+    description:
+      "An ecommerce application developed using react,redux,firebase",
+    link: "https://anuragecommerce.netlify.app/",
   },
 ];
 
